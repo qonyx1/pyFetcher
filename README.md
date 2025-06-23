@@ -5,7 +5,7 @@
 
 ## Authors
 
-- [@adaminit](https://www.github.com/qonyx1) - Entire project
+- [@qonyx1](https://www.github.com/qonyx1) - Entire project
 
 
 ## Acknowledgements
@@ -18,7 +18,7 @@
 Install pyFetcher with pip3
 
 ```bash
-  git clone https://github.com/adaminit/pyFetcher
+  git clone https://github.com/qonyx1/pyFetcher
   cd pyFetcher
   pip install -r requirements.txt
 ```
