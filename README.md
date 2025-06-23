@@ -5,7 +5,7 @@
 
 ## Authors
 
-- [@adaminit](https://www.github.com/adaminit) - Entire project
+- [@adaminit](https://www.github.com/qonyx1) - Entire project
 
 
 ## Acknowledgements
@@ -25,5 +25,5 @@ Install pyFetcher with pip3
     
 ## Support
 
-For support, please contact me on Discord: [Click here](https://discord.com/users/1112896704665108562)
+For support, please contact me on Discord: [Click here](https://discord.com/users/632774463552880641)
 
